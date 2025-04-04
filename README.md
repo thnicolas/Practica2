@@ -32,5 +32,11 @@ pip install -r requirements.txt
 
 jupyter notebook
 
-### Se abrirá una pestaña en tu navegador donde podrás seleccionar y ejecutar el notebook del proyecto
+Se abrirá una pestaña en tu navegador donde podrás seleccionar y ejecutar el notebook del proyecto
+
+### Aclaracion
+
+En mi casa estoy ejecutando el notebook directamente desde la extensión de Jupyter en Visual Studio Code.
+
+
 
